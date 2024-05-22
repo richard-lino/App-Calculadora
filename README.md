@@ -33,16 +33,6 @@ O script JavaScript implementa a lógica da calculadora:
 #### Se o tipo for 'valor':
 - o número é adicionado ao visor.
 
-## Como Usar
-- Clone o repositório para o seu ambiente local:
-```bash
-   git clone https://github.com/richard-lino/App-Calculadora.git
-```
-- Navegue até o diretório do projeto:
-```bash
-   cd App-Calculadora
-```
-- Abra o arquivo index.html em um navegador web.
 
 ## Estrutura de Arquivos
 - **index.html**: Contém a estrutura HTML da calculadora.
@@ -56,14 +46,22 @@ O script JavaScript implementa a lógica da calculadora:
 - Bootstrap 4
 
 ## Capturas de Tela
-
 - **Inicio:**
-![inicio](images/calc1.png)
+<img src="imagens/calc1.png" alt="inicio" width="200">
 
 - **Calculando:**
-![calculando](images/calc2.png)
+<img src="imagens/calc2.png" alt="inicio" width="200">
 
 - **Resultado:**
-![resultado](images/calc3.png)
+<img src="imagens/calc3.png" alt="inicio" width="200">
 
-
+## Como Usar
+- Clone o repositório para o seu ambiente local:
+```bash
+   git clone https://github.com/richard-lino/App-Calculadora.git
+```
+- Navegue até o diretório do projeto:
+```bash
+   cd App-Calculadora
+```
+- Abra o arquivo index.html em um navegador web.
